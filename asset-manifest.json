@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/akremfriends/static/css/main.87b3e912.chunk.css",
-    "main.js": "/akremfriends/static/js/main.70ed01c6.chunk.js",
-    "main.js.map": "/akremfriends/static/js/main.70ed01c6.chunk.js.map",
+    "main.js": "/akremfriends/static/js/main.87561053.chunk.js",
+    "main.js.map": "/akremfriends/static/js/main.87561053.chunk.js.map",
     "runtime-main.js": "/akremfriends/static/js/runtime-main.1cb83734.js",
     "runtime-main.js.map": "/akremfriends/static/js/runtime-main.1cb83734.js.map",
     "static/css/2.fe359a49.chunk.css": "/akremfriends/static/css/2.fe359a49.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.63baf6fc.chunk.js",
     "static/css/main.87b3e912.chunk.css",
-    "static/js/main.70ed01c6.chunk.js"
+    "static/js/main.87561053.chunk.js"
   ]
 }
